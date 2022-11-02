@@ -1,0 +1,22 @@
+{
+  "name": "sol-airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadia-4/sol-airdrop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadia-4/sol-airdrop/issues"
+  },
+  "homepage": "https://github.com/sadia-4/sol-airdrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
+}
